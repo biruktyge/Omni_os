@@ -1,6 +1,5 @@
-# OMNI OPERATING SYSTEM 0
-##
-INSTALLATION
+# OMNI OPERATING SYSTEM 
+## INSTALLATION
 
 This repository provides a detailed guide on installing and configuring OmniOS, a UNIX-based server operating system derived from illumos (inspired by OpenSolaris). The documentation covers essential topics including system requirements, step-by-step installation procedures, and common troubleshooting solutions.
 
